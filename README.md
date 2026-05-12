@@ -1,9 +1,6 @@
 # Hi there, I'm Saurav Sarwan 👋
 
-## 🚀 About Me
-Passionate developer focused on building intelligent, scalable, and user-centric applications across Artificial Intelligence, Data Science, and Full Stack Development.
-
-I enjoy solving real-world problems through modern software technologies, AI-driven solutions, and data-oriented systems.
+I am a Passionate developer from India
 
 ---
 
