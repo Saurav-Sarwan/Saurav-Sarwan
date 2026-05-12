@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sauravsarwan02/)">
+  <a href="https://www.linkedin.com/in/sauravsarwan02/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
   
