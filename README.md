@@ -5,10 +5,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sauravsarwan02/">
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sauravsarwan02/)">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
-    
+  
   <a href="mailto:sauravsarwan1234@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="gmail logo" />
   </a>
@@ -31,13 +31,12 @@
 ###
 
 <p align="left">
-Passionate developer focused on building intelligent, scalable, and user-centric applications across Artificial Intelligence, Data Science, and Full Stack Development.<br><br>
+AI & Full Stack Developer focused on building scalable, intelligent, and impactful applications.<br><br>
 
-- 🤖 Interested in Artificial Intelligence & Machine Learning<br>
-- 🌐 Focused on Full Stack Web Development<br>
-- 🧠 Exploring Generative AI Applications<br>
-- 📊 Enthusiastic about Data Science & Analytics<br>
-- 🚀 Building real-world AI-powered applications and scalable systems
+- 🤖 Artificial Intelligence & Machine Learning<br>
+- 🌐 Full Stack Web Development<br>
+- 🧠 Generative AI Applications<br>
+- 📊 Data Science & Analytics
 </p>
 
 ###
@@ -90,16 +89,6 @@ Passionate developer focused on building intelligent, scalable, and user-centric
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 
 </div>
-
-###
-
-<!-- <h3 align="left">🔥 GitHub Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=8" height="220" alt="streak graph" />
-</div> -->
 
 ###
 
