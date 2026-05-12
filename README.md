@@ -31,62 +31,35 @@
 ###
 
 <p align="left">
-AI & Full Stack Developer focused on building scalable, intelligent, and impactful applications.<br><br>
-
-- 🤖 Artificial Intelligence & Machine Learning<br>
-- 🌐 Full Stack Web Development<br>
-- 🧠 Generative AI Applications<br>
-- 📊 Data Science & Analytics
+AI & Full Stack Developer focused on building scalable, intelligent, and impactful applications.
 </p>
 
 ###
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<h2 align="left">Skills</h2>
 
 ###
 
-<div align="left">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
+<p align="left">
+🤖 Artificial Intelligence & Machine Learning <br>
+🌐 Full Stack Web Development <br>
+🧠 Generative AI Applications <br>
+📊 Data Science & Analytics
+</p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
+###
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
+<h2 align="left">🛠 Tech Stack</h2>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
+###
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
+<div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-  <img width="12" />
+<img src="https://skillicons.dev/icons?i=js,python,cpp,react,nodejs,express,mongodb,tensorflow,pytorch,git,github,vscode" height="60" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
+<br>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+<img src="https://skillicons.dev/icons?i=numpy,pandas,mysql,postman,html,css,sass,firebase" height="60" />
 
 </div>
 
