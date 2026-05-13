@@ -52,7 +52,7 @@ ML-based web app for predicting house prices using regression models.
 ### 🐍 SNAID — Snake AI Detection System
 Deep Learning system for snake species detection and antivenom recommendation.
 
-🔹 `TensorFlow` `React` `Node.js` `Python`  
+🔹 `Python` `PyTorch` `Hugging Face` `Vercel`  
 🔗 <a href="https://snaid-frontend.vercel.app/">Live Demo</a>
 
 <br>
@@ -60,7 +60,7 @@ Deep Learning system for snake species detection and antivenom recommendation.
 ### 🤖 AI Resume Analyzer & Interview Assistant
 AI-powered platform for resume analysis, ATS optimization, and interview preparation.
 
-🔹 `MERN Stack` `Gemini AI` `MongoDB`  
+🔹 `React.js` `Node.js` `Express.js` `Gemini AI` `MongoDB`  
 🚧 In Progress
 
 </div>
