@@ -35,7 +35,37 @@ AI & Full Stack Developer focused on building scalable, intelligent, and impactf
 </p>
 
 ###
+<h2 align="left">🚀 Featured Projects</h2>
 
+###
+
+<div align="left">
+
+### 🏡 House Price Predictor
+ML-based web app for predicting house prices using regression models.
+
+🔹 `Python` `Scikit-Learn` `Pandas` `Streamlit`  
+🔗 <a href="https://house-price-predictor-tnvus8jcqtv725lji6fhp4.streamlit.app/">Live Demo</a>
+
+<br>
+
+### 🐍 SNAID — Snake AI Detection System
+Deep Learning system for snake species detection and antivenom recommendation.
+
+🔹 `TensorFlow` `React` `Node.js` `Python`  
+🔗 <a href="https://snaid-frontend.vercel.app/">Live Demo</a>
+
+<br>
+
+### 🤖 AI Resume Analyzer & Interview Assistant
+AI-powered platform for resume analysis, ATS optimization, and interview preparation.
+
+🔹 `MERN Stack` `Gemini AI` `MongoDB`  
+🚧 In Progress
+
+</div>
+
+###
 <h2 align="left">Skills</h2>
 
 ###
