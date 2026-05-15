@@ -41,15 +41,15 @@ AI/ML & Full Stack Developer focused on building scalable, intelligent, and impa
 
 <div align="left">
 
-### 🏡 House Price Predictor
-ML-based web app for predicting house prices using regression models.
+### 🤖 AI Resume Analyzer & Interview Assistant
+AI-powered platform for resume analysis, ATS optimization, and interview preparation.
 
-🔹 `Python` `Scikit-Learn` `Pandas` `Streamlit`  
-🔗 <a href="https://house-price-predictor-tnvus8jcqtv725lji6fhp4.streamlit.app/">Live Demo</a>
+🔹 `React.js` `Node.js` `Express.js` `Gemini AI` `MongoDB`  
+🚧 In Progress
 
 <br>
 
-### 🐍 SNAID — Snake AI Detection System
+### 🐍 SNAID — Snake Identification & Anti-Venom Recommendation System
 Deep Learning system for snake species detection and antivenom recommendation.
 
 🔹 `Python` `PyTorch` `Hugging Face` `Vercel`  
@@ -57,11 +57,11 @@ Deep Learning system for snake species detection and antivenom recommendation.
 
 <br>
 
-### 🤖 AI Resume Analyzer & Interview Assistant
-AI-powered platform for resume analysis, ATS optimization, and interview preparation.
+### 🏡 House Price Predictor
+ML-based web app for predicting house prices using regression models.
 
-🔹 `React.js` `Node.js` `Express.js` `Gemini AI` `MongoDB`  
-🚧 In Progress
+🔹 `Python` `Scikit-Learn` `Pandas` `Streamlit`  
+🔗 <a href="https://house-price-predictor-tnvus8jcqtv725lji6fhp4.streamlit.app/">Live Demo</a>
 
 </div>
 
