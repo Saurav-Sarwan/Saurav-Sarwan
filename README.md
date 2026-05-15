@@ -71,10 +71,10 @@ ML-based web app for predicting house prices using regression models.
 ###
 
 <p align="left">
-🤖 Artificial Intelligence & Machine Learning <br>
+📊 Data Science & Analytics <br>
+🤖 Machine Learning <br>
 🌐 Full Stack Web Development <br>
-🧠 Generative AI Applications <br>
-📊 Data Science & Analytics
+🧠 Generative AI Applications 
 </p>
 
 ###
