@@ -31,7 +31,7 @@
 ###
 
 <p align="left">
-AI & Full Stack Developer focused on building scalable, intelligent, and impactful applications.
+AI/ML & Full Stack Developer focused on building scalable, intelligent, and impactful applications.
 </p>
 
 ###
