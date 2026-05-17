@@ -35,7 +35,7 @@ Building intelligent applications using AI, Machine Learning, and modern web tec
 AI-powered platform for resume analysis, ATS optimization, and interview preparation.
 
 🔹 `React.js` `Node.js` `Express.js` `Gemini AI` `MongoDB`  
-🔗 <a href="https://ai-resume-builder-frontend-iota.vercel.app/">Live Demo</a>
+🔗 <a href="https://ai-resume-builder-frontend-iota.vercel.app/">Live Demo Link</a>
 
 <br>
 
@@ -43,7 +43,7 @@ AI-powered platform for resume analysis, ATS optimization, and interview prepara
 Deep Learning system for snake species detection and antivenom recommendation.
 
 🔹 `Python` `PyTorch` `Hugging Face` `Vercel`  
-🔗 <a href="https://snaid-frontend.vercel.app/">Live Demo</a>
+🔗 <a href="https://snaid-frontend.vercel.app/">Live Demo Link</a>
 
 <br>
 
@@ -51,7 +51,7 @@ Deep Learning system for snake species detection and antivenom recommendation.
 ML-based web app for predicting house prices using regression models.
 
 🔹 `Python` `Scikit-Learn` `Pandas` `Streamlit`  
-🔗 <a href="https://house-price-predictor-tnvus8jcqtv725lji6fhp4.streamlit.app/">Live Demo</a>
+🔗 <a href="https://house-price-predictor-tnvus8jcqtv725lji6fhp4.streamlit.app/">Live Demo Link</a>
 
 </div>
 
@@ -85,4 +85,4 @@ ML-based web app for predicting house prices using regression models.
 
 ###
 
-<h3 align="center">⚡ “Building intelligent solutions through code, data, and AI.”</h3>
+<!-- <h3 align="center">⚡ “Building intelligent solutions through code, data, and AI.”</h3> -->
