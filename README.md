@@ -31,7 +31,7 @@ Building intelligent applications using AI, Machine Learning, and modern web tec
 
 <div align="left">
 
-### 🤖 AI-powered Resume Analyzer and Interview Assistant
+### 🤖 AI Resume Builder & Interview Assistant
 AI-powered platform for resume analysis, ATS optimization, and interview preparation.
 
 🔹 `React.js` `Node.js` `Express.js` `Gemini AI` `MongoDB`  
