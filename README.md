@@ -40,7 +40,7 @@ AI-powered platform for resume analysis, ATS optimization, and interview prepara
 <br>
 
 ### 🐍 SNAID — Snake Identification & Anti-Venom Recommendation System
-Deep Learning system for snake species detection and antivenom recommendation.
+Deep Learning system for snake species detection and antivenom recommendation. Our final year project.
 
 🔹 `Python` `PyTorch` `Hugging Face` `Vercel`  
 🔗 <a href="https://snaid-frontend.vercel.app/">Live Demo Link</a>
