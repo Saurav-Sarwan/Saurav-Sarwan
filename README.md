@@ -4,7 +4,7 @@
 
 # Hey there 👋 I'm Saurav Sarwan
 
-### AI/ML Engineer • Full Stack Developer • Generative AI Enthusiast
+### AI/ML Engineer • Full Stack Developer • Generative AI
 
 Building intelligent applications using AI, Machine Learning, and modern web technologies.
 
@@ -32,7 +32,7 @@ Building intelligent applications using AI, Machine Learning, and modern web tec
 <div align="left">
 
 ### 🤖 AI Resume Builder & Interview Assistant
-AI-powered platform for resume analysis, ATS optimization, and interview preparation.
+<!-- <p>AI-powered platform for resume analysis, ATS optimization, and interview preparation.</p> -->
 
 🔹 `React.js` `Node.js` `Express.js` `Gemini AI` `MongoDB`  
 🔗 <a href="https://ai-resume-builder-frontend-iota.vercel.app/">Live Demo Link</a>
@@ -40,7 +40,7 @@ AI-powered platform for resume analysis, ATS optimization, and interview prepara
 <br>
 
 ### 🐍 SNAID — Snake Identification & Anti-Venom Recommendation System
-Deep Learning system for snake species detection and antivenom recommendation. Our final year project.
+<!-- <p>Deep Learning system for snake species detection and antivenom recommendation. Our final year project.</p> -->
 
 🔹 `Python` `PyTorch` `Hugging Face` `Vercel`  
 🔗 <a href="https://snaid-frontend.vercel.app/">Live Demo Link</a>
@@ -48,7 +48,7 @@ Deep Learning system for snake species detection and antivenom recommendation. O
 <br>
 
 ### 🏡 House Price Predictor
-ML-based web app for predicting house prices using regression models.
+<!-- <p>ML-based web app for predicting house prices using regression models.</p> -->
 
 🔹 `Python` `Scikit-Learn` `Pandas` `Streamlit`  
 🔗 <a href="https://house-price-predictor-tnvus8jcqtv725lji6fhp4.streamlit.app/">Live Demo Link</a>
