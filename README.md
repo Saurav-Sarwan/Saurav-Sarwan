@@ -35,7 +35,7 @@ Building intelligent applications using AI, Machine Learning, and modern web tec
 <!-- <p>AI-powered platform for resume analysis, ATS optimization, and interview preparation.</p> -->
 
 🔹 `React.js` `Node.js` `Express.js` `Gemini AI` `MongoDB`  
-🔗 <a href="https://ai-resume-builder-frontend-iota.vercel.app/">Live Demo Link</a>
+<h2>🔗<a href="https://ai-resume-builder-frontend-iota.vercel.app/">Live Demo Link</a></h2>
 
 <br>
 
@@ -43,7 +43,7 @@ Building intelligent applications using AI, Machine Learning, and modern web tec
 <!-- <p>Deep Learning system for snake species detection and antivenom recommendation. Our final year project.</p> -->
 
 🔹 `Python` `PyTorch` `Hugging Face` `Vercel`  
-🔗 <a href="https://snaid-frontend.vercel.app/">Live Demo Link</a>
+<h2>🔗<a href="https://snaid-frontend.vercel.app/">Live Demo Link</a></h2>
 
 <br>
 
@@ -51,7 +51,7 @@ Building intelligent applications using AI, Machine Learning, and modern web tec
 <!-- <p>ML-based web app for predicting house prices using regression models.</p> -->
 
 🔹 `Python` `Scikit-Learn` `Pandas` `Streamlit`  
-🔗 <a href="https://house-price-predictor-tnvus8jcqtv725lji6fhp4.streamlit.app/">Live Demo Link</a>
+<h2>🔗<a href="https://house-price-predictor-tnvus8jcqtv725lji6fhp4.streamlit.app/">Live Demo Link</a></h2>
 
 </div>
 
