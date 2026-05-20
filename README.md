@@ -35,7 +35,7 @@ Building intelligent applications using AI, Machine Learning, and modern web tec
 <!-- <p>AI-powered platform for resume analysis, ATS optimization, and interview preparation.</p> -->
 
 🔹 `React.js` `Node.js` `Express.js` `Gemini AI` `MongoDB`  
-<h2>🔗<a href="https://ai-resume-builder-frontend-iota.vercel.app/">Live Demo Link</a></h2>
+<h2>🔗<a href="https://ai-resume-builder-frontend-iota.vercel.app/">Live Demo Link</a> | <a href="https://github.com/Saurav-Sarwan/AI-Resume-and-Builder-Interview-Assistant">Github Link</a></h2>
 
 <br>
 
@@ -51,7 +51,7 @@ Building intelligent applications using AI, Machine Learning, and modern web tec
 <!-- <p>ML-based web app for predicting house prices using regression models.</p> -->
 
 🔹 `Python` `Scikit-Learn` `Pandas` `Streamlit`  
-<h2>🔗<a href="https://house-price-predictor-tnvus8jcqtv725lji6fhp4.streamlit.app/">Live Demo Link</a></h2>
+<h2>🔗<a href="https://house-price-predictor-tnvus8jcqtv725lji6fhp4.streamlit.app/">Live Demo Link</a> | <a href="https://github.com/Saurav-Sarwan/House-price-predictor">Github Link</a></h2>
 
 </div>
 
