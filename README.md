@@ -43,7 +43,7 @@ Building intelligent applications using AI, Machine Learning, and modern web tec
 <!-- <p>Deep Learning system for snake species detection and antivenom recommendation. Our final year project.</p> -->
 
 🔹 `Python` `PyTorch` `Hugging Face` `Vercel`  
-<h2>🔗<a href="https://snaid-frontend.vercel.app/">Live Demo Link</a></h2>
+<h2>🔗<a href="https://snaid-frontend.vercel.app/">Live Demo Link</a> | <a href="https://github.com/Saurav-Sarwan/snaid-frontend">Github Link</a></h2>
 
 <br>
 
